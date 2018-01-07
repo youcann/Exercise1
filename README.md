@@ -17,4 +17,4 @@ When asking for approval, make sure to prepare the following.
     - The modified file with answers filled in. You should open it at github or some other place where the markdown will be rendered nicely.
 - Part 4:
     - The RESULT.md file where you have written a couple of sentances explaining the result you get. (HINT: You're suppose to discover some weirdness, and you might have to run your program several times to trigger it).
-    - A terminal where you can rim your code while the student assistant is watching.
+    - A terminal where you can run your code while the student assistant is watching.
