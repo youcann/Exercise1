@@ -3,7 +3,7 @@ Part1: Thinking about elevators
 
 Not for handing in, just for thinking about. Talk to other groups, assistants, or even people who have taken the course in previous years.
 
-Brainstorm some techniques you could use to prevent Sverre from being hopelessly stranded, waiting for an elevator that will never arrive. Think about the  [worst-case](http://xkcd.com/748/) behaviour of the system.
+Brainstorm some techniques you could use to prevent a user from being hopelessly stranded, waiting for an elevator that will never arrive. Think about the [worst-case](http://xkcd.com/748/) behaviour of the system.
  - What if the software controlling one of the elvators suddeny crashes?
  - What if it doesn't crash, but hangs?
  - What if a message between machines is lost?
