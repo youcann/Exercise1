@@ -21,7 +21,7 @@ Implement this in C, Python and Go:
             
 
 ### Delivery
-In this exercise you must take advantage of the starter code found in the subdirectories corresponding to the three different programming languages. You must fill out the missing code and make sure your program is working before commiting and pushing the changes to your repository.
+In this exercise you should take advantage of the starter code found in the subdirectories corresponding to the three different programming languages. Fill out the missing code and make sure your program is working before committing and pushing the changes to your repository.
 
-At last, you should create a new file called RESULT.md inside this directory explaining what happens and why. Remember to add, commit and push the new file.
+Finally, create a new file called RESULT.md inside this directory explaining what happens and why. Remember to add, commit and push the new file.
 
