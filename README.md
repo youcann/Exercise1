@@ -12,9 +12,12 @@ This exercise does not require that you use the machines at the real-time lab. H
 - [Part 4: Finally some code](./Part4/README.md)
 
 ## Approval
+Submit your answers to parts 3 and 4 on Blackboard.
+<!--
 When asking for approval, make sure to prepare the following.
 - Part 3:
     - The modified file with answers filled in. You should open it at github or some other place where the markdown will be rendered nicely.
 - Part 4:
     - The RESULT.md file where you have written a couple of sentances explaining the result you get. (HINT: You're suppose to discover some weirdness, and you might have to run your program several times to trigger it).
     - A terminal where you can run your code while the student assistant is watching.
+-->
