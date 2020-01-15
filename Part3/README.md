@@ -44,7 +44,7 @@ When answering the questions, remember to use all the resources at your disposal
  > There are Python implementations like *Jython* that don't use a GIL. For *CPython*-based projects, instead of using a thread-based approach, multiprocesses can be used with the [multiprocessing](https://docs.python.org/2/library/multiprocessing.html)-module.
 
  ### What does `func GOMAXPROCS(n int) int` change? 
- > It sets the number of CPUs to be used. [[8]][8]
+ > It sets the number of CPUs to be used [[8]][8].
 
 
 
