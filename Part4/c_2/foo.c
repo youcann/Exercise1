@@ -5,12 +5,20 @@ int i = 0;
 
 // Note the return type: void*
 void* incrementingThreadFunction(){
-    for(int j=0;j<1000000;j++) i++;
+    for(int j=0;j<1000000;j++) 
+    {
+		i++;
+		for(int k=0;k<10000;k++);
+	}
     return NULL;
 }
 
 void* decrementingThreadFunction(){
-    for(int j=0;j<1000000;j++) i--;
+    for(int j=0;j<1000000;j++)
+    {
+		i--;
+		for(int k=0;k<10000;k++);
+	}
     return NULL;
 }
 
